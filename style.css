@@ -341,7 +341,7 @@ a:hover {
   font-family: "Nunito", sans-serif;
   color: white;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
 }
 .about div {
   /* width: 100%; */
